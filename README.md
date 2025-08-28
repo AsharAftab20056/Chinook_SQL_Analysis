@@ -44,8 +44,7 @@ The Chinook data model represents a digital media store, including tables for ar
 
 ## 🛠️ Tools & Technologies
 - **Database:** SQLite (DB Browser for SQLite)  
-- **Language:** SQL  
-- **Dataset:** [Chinook Sample Database](https://github.com/lerocha/chinook-database)  
+- **Language:** SQL
 
 ---
 
@@ -110,3 +109,4 @@ Feel free to fork, improve, and give credit where due.
 ---
 
 > If you found this project useful or insightful, consider giving it a ⭐ on GitHub!
+
