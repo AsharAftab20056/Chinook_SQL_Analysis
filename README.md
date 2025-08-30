@@ -92,7 +92,7 @@ Uses `ROW_NUMBER()` to identify the top revenue track in each month.
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/chinook-sql-analysis.git
+   git clone https://github.com/AsharAftab20056/Chinook_SQL_Analysis
    cd chinook-sql-analysis
 
 ## 📬 Author  
@@ -109,4 +109,5 @@ Feel free to fork, improve, and give credit where due.
 ---
 
 > If you found this project useful or insightful, consider giving it a ⭐ on GitHub!
+
 
